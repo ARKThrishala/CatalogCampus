@@ -1,15 +1,4 @@
 
- Conversation opened. 1 read message.
-
-Skip to content
-Using Maturi Venkata Subba Rao Engineering College Mail with screen readers
-
-Conversations
- 
-Program Policies
-Powered by Google
-Last account activity: 3 hours ago
-Details
 1)For given sample test case
 Program:
 #include <stdio.h>

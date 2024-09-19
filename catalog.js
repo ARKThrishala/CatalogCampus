@@ -110,5 +110,4 @@ int main() {
 }
 
 Output:The constant term (secret) c is: 33198405829207.531250
-campus code.txt
-Displaying campus code.txt. 
+
